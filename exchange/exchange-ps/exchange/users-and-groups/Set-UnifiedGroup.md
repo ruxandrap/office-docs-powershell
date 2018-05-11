@@ -31,7 +31,7 @@ Set-UnifiedGroup [-Identity] <UnifiedGroupIdParameter>
  [-ExtensionCustomAttribute2 <MultiValuedProperty>] [-ExtensionCustomAttribute3 <MultiValuedProperty>]
  [-ExtensionCustomAttribute4 <MultiValuedProperty>] [-ExtensionCustomAttribute5 <MultiValuedProperty>]
  [-ForceUpgrade] [-GrantSendOnBehalfTo <MultiValuedProperty>] [-HiddenFromAddressListsEnabled <$true | $false>] 
- [-HideFromExchangeClients <$true | $false>] [-Language <CultureInfo>] [-MailboxRegion <String>] [-MailTip <String>]
+ [-HiddenFromExchangeClientsEnabled <$true | $false>] [-Language <CultureInfo>] [-MailboxRegion <String>] [-MailTip <String>]
  [-MailTipTranslations <MultiValuedProperty>] [-Notes <String>] [-PrimarySmtpAddress <SmtpAddress>]
  [-RejectMessagesFromSendersOrMembers <MultiValuedProperty>]
  [-RequireSenderAuthenticationEnabled <$true | $false>] [-UnifiedGroupWelcomeMessageEnabled] [-WhatIf]
